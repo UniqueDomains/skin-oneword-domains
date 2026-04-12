@@ -1,22 +1,22 @@
-# Available .SKIN One-Word Domains (5,622,007)
+# Available .SKIN One-Word Domains (9,376)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C375%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C007%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C378%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C376%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .skin one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .skin one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,375-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,007 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,375 rows · **Live catalog:** 5,622,007 domains
+**Public extract:** 9,378 rows · **Live catalog:** 9,376 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/skin`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SKIN one-word domain 
 
 ### Files
 
-- `skin.csv` — public CSV extract (9,375 rows)
-- `skin.json` — public JSON extract (9,375 rows)
+- `skin.csv` — public CSV extract (9,378 rows)
+- `skin.json` — public JSON extract (9,378 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -73,17 +73,17 @@ print(df.head())
 | creator.skin    | available | $1.99     | $20.99        | 70             | 43     | 7      | name.com        |
 | smart.skin      | resell    | —         | —             | 74             | 56     | 5      | Porkbun, LLC    |
 | easy.skin       | premium   | $2,500    | $20.99        | 128            | 62     | 4      | name.com        |
-| unity.skin      | available | $1.99     | $20.99        | 70             | 41     | 5      | name.com        |
+| unity.skin      | available | $1.99     | $20.99        | 70             | 40     | 5      | name.com        |
 | air.skin        | resell    | —         | —             | 84             | 49     | 3      | Spaceship, Inc. |
 | power.skin      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap       |
 | realestate.skin | available | $19.98    | —             | —              | 40     | 11     | namecheap       |
-| dna.skin        | resell    | —         | —             | 78             | 49     | 3      | Namecheap       |
-| data.skin       | premium   | $845      | $845          | 70             | 60     | 4      | namecheap       |
-| gather.skin     | available | $1.99     | $20.99        | 96             | 38     | 6      | name.com        |
-| startup.skin    | resell    | —         | —             | 82             | 48     | 7      | Dynadot LLC     |
+| startup.skin    | resell    | —         | —             | 82             | 47     | 7      | Dynadot LLC     |
 | ace.skin        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com        |
-| conscious.skin  | available | $1.99     | $20.99        | 89             | 38     | 9      | name.com        |
-| genius.skin     | resell    | —         | —             | 98             | 47     | 6      | Dynadot LLC     |
+| forward.skin    | available | $1.99     | $20.99        | 68             | 39     | 7      | name.com        |
+| void.skin       | resell    | —         | —             | 80             | 47     | 4      | Dynadot LLC     |
+| live.skin       | premium   | $812.50   | $812.50       | 108            | 56     | 4      | name.com        |
+| gather.skin     | available | $1.99     | $20.99        | 96             | 38     | 6      | name.com        |
+| dna.skin        | resell    | —         | —             | 78             | 47     | 3      | Namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,375-row public sample | 5,622,007 live domains                           |
+| 9,378-row public sample | 9,376 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
