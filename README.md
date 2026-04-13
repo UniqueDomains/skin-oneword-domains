@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .skin one-word domains from Unique
 
 **Public extract:** 9,378 rows · **Live catalog:** 9,376 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/skin`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | seventeen.skin  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com        |
-| concrete.skin   | resell    | $19.98    | —             | 102            | 31     | 8      | Namecheap       |
+| concrete.skin   | resell    | $19.98    | —             | 102            | 32     | 8      | Namecheap       |
 | converse.skin   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com        |
 | athletics.skin  | available | $19.98    | —             | 69             | 52     | 9      | namecheap       |
 | loop.skin       | resell    | —         | —             | 72             | 77     | 4      | Go Daddy, LLC   |
@@ -79,10 +79,10 @@ print(df.head())
 | realestate.skin | available | $19.98    | —             | —              | 40     | 11     | namecheap       |
 | startup.skin    | resell    | —         | —             | 82             | 47     | 7      | Dynadot LLC     |
 | ace.skin        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com        |
-| forward.skin    | available | $1.99     | $20.99        | 68             | 39     | 7      | name.com        |
+| gather.skin     | available | $1.99     | $20.99        | 96             | 39     | 6      | name.com        |
 | void.skin       | resell    | —         | —             | 80             | 47     | 4      | Dynadot LLC     |
 | live.skin       | premium   | $812.50   | $812.50       | 108            | 56     | 4      | name.com        |
-| gather.skin     | available | $1.99     | $20.99        | 96             | 38     | 6      | name.com        |
+| forward.skin    | available | $1.99     | $20.99        | 68             | 39     | 7      | name.com        |
 | dna.skin        | resell    | —         | —             | 78             | 47     | 3      | Namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
