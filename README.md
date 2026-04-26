@@ -1,22 +1,22 @@
-# Available .SKIN One-Word Domains (9,378)
+# Available .SKIN One-Word Domains (11,926)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C377%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C378%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C926%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .skin one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,377-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,378 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,926 domains** on the canonical page below.
 
-**Public extract:** 9,377 rows · **Live catalog:** 9,378 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,926 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/skin`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SKIN one-word domain 
 
 ### Files
 
-- `skin.csv` — public CSV extract (9,377 rows)
-- `skin.json` — public JSON extract (9,377 rows)
+- `skin.csv` — public CSV extract (1,000 rows)
+- `skin.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| seventeen.skin  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com        |
-| concrete.skin   | resell    | $19.98    | —             | 102            | 32     | 8      | Namecheap       |
-| converse.skin   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com        |
-| athletics.skin  | available | $19.98    | —             | 69             | 52     | 9      | namecheap       |
-| electronic.skin | resell    | $1.99     | $20.99        | 68             | 20     | 10     | Dynadot LLC     |
-| nationwide.skin | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com        |
-| creator.skin    | available | $1.99     | $20.99        | 70             | 43     | 7      | name.com        |
-| loop.skin       | resell    | —         | —             | 72             | 77     | 4      | Go Daddy, LLC   |
-| easy.skin       | premium   | $2,500    | $20.99        | 128            | 62     | 4      | name.com        |
-| unity.skin      | available | $1.99     | $20.99        | 70             | 40     | 5      | name.com        |
-| smart.skin      | resell    | —         | —             | 74             | 56     | 5      | Porkbun, LLC    |
-| power.skin      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap       |
-| realestate.skin | available | $19.98    | —             | —              | 40     | 11     | namecheap       |
-| air.skin        | resell    | —         | —             | 84             | 49     | 3      | Spaceship, Inc. |
-| ace.skin        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com        |
-| gather.skin     | available | $1.99     | $20.99        | 96             | 39     | 6      | name.com        |
-| startup.skin    | resell    | —         | —             | 82             | 47     | 7      | Dynadot LLC     |
-| live.skin       | premium   | $812.50   | $812.50       | 108            | 56     | 4      | name.com        |
-| forward.skin    | available | $1.99     | $20.99        | 68             | 39     | 7      | name.com        |
-| void.skin       | resell    | —         | —             | 80             | 47     | 4      | Dynadot LLC     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| makers.skin        | available | $1.65     | $15.75        | 62             | 67     | 6      | namesilo              |
+| research.skin      | resell    | —         | —             | 78             | 39     | 8      | Dynadot LLC           |
+| CocaCola.skin      | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap             |
+| RedSox.skin        | available | $19.98    | —             | 72             | 60     | 7      | namecheap             |
+| reflex.skin        | resell    | —         | —             | 76             | 22     | 6      | Go Daddy, LLC         |
+| insight.skin       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com              |
+| keepthechange.skin | available | $1.99     | —             | 46             | 59     | 15     | name.com              |
+| styling.skin       | resell    | —         | —             | 78             | 11     | 7      | 101domain GRS Limited |
+| donuts.skin        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com              |
+| whynot.skin        | available | $1.99     | —             | 74             | 39     | 7      | name.com              |
+| aloevera.skin      | resell    | —         | —             | 80             | 10     | 9      | Dynadot LLC           |
+| regions.skin       | premium   | $2,500    | —             | 64             | 59     | 7      | name.com              |
+| prompts.skin       | available | $1.65     | $15.75        | 54             | 39     | 7      | namesilo              |
+| cars.skin          | premium   | $2,500    | —             | 66             | 47     | 4      | name.com              |
+| neuroscience.skin  | available | $1.99     | —             | 80             | 37     | 12     | name.com              |
+| Ryan.skin          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap             |
+| notes.skin         | available | $1.99     | —             | 73             | 37     | 5      | name.com              |
+| jobs.skin          | premium   | $2,500    | —             | 79             | 42     | 4      | name.com              |
+| popup.skin         | available | $1.99     | —             | 84             | 29     | 6      | name.com              |
+| events.skin        | premium   | $812.50   | —             | 68             | 37     | 6      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,377-row public sample | 9,378 live domains                               |
+| 1,000-row public sample | 11,926 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
