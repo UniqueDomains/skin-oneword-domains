@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .skin one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,360 domains · **Median ask:** $121.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/skin`  
 **Best for:** founders, investors, studios
 
@@ -67,13 +67,13 @@ print(df.head())
 | facts.skin         | available | $1.99     | —             | 88             | 25     | 5      | name.com              |
 | ladies.skin        | available | $1.99     | —             | 80             | 17     | 6      | name.com              |
 | geton.skin         | available | $1.99     | —             | 82             | 10     | 6      | name.com              |
-| popup.skin         | available | $1.99     | —             | 84             | 29     | 6      | name.com              |
+| popup.skin         | available | $1.99     | —             | 84             | 28     | 6      | name.com              |
 | Apples.skin        | available | $19.98    | —             | 90             | 16     | 6      | namecheap             |
-| lyrics.skin        | available | $1.99     | —             | 90             | 21     | 6      | name.com              |
+| lyrics.skin        | available | $1.99     | —             | 90             | 20     | 6      | name.com              |
 | dogsit.skin        | available | $1.99     | —             | 96             | 2      | 6      | name.com              |
 | edamame.skin       | available | $1.65     | $15.75        | 80             | 9      | 7      | namesilo              |
 | QandA.skin         | available | $19.98    | —             | 80             | 10     | 7      | namecheap             |
-| makeit.skin        | available | $1.99     | —             | 82             | 22     | 7      | name.com              |
+| makeit.skin        | available | $1.99     | —             | 82             | 21     | 7      | name.com              |
 | dogsick.skin       | available | $1.99     | —             | 90             | 1      | 7      | name.com              |
 | makers.skin        | available | $1.65     | $15.75        | 62             | 67     | 6      | namesilo              |
 | research.skin      | resell    | —         | —             | 78             | 39     | 8      | Dynadot LLC           |
@@ -81,7 +81,7 @@ print(df.head())
 | keepthechange.skin | available | $1.99     | —             | 46             | 59     | 15     | name.com              |
 | reflex.skin        | resell    | —         | —             | 76             | 22     | 6      | Go Daddy, LLC         |
 | insight.skin       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com              |
-| whynot.skin        | available | $1.99     | —             | 74             | 39     | 7      | name.com              |
+| whynot.skin        | available | $1.99     | —             | 74             | 44     | 7      | name.com              |
 | styling.skin       | resell    | —         | —             | 78             | 11     | 7      | 101domain GRS Limited |
 | donuts.skin        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com              |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
