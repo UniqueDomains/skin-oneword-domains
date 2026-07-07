@@ -1,10 +1,10 @@
-# Available .SKIN One-Word Domains (12,360)
+# Available .SKIN One-Word Domains (12,361)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C360%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C361%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .skin one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,360 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,361 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,360 domains · **Median ask:** $121.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,361 domains · **Median ask:** $220.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/skin`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/skin`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SKIN one-word domain 
 
 ### Files
 
-- `skin.csv` — public CSV extract (1,000 rows)
-- `skin.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `skin.csv`, public CSV extract (1,000 rows)
+- `skin.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| facts.skin         | available | $1.99     | —             | 88             | 25     | 5      | name.com              |
-| ladies.skin        | available | $1.99     | —             | 80             | 17     | 6      | name.com              |
-| geton.skin         | available | $1.99     | —             | 82             | 10     | 6      | name.com              |
-| popup.skin         | available | $1.99     | —             | 84             | 28     | 6      | name.com              |
-| Apples.skin        | available | $19.98    | —             | 90             | 16     | 6      | namecheap             |
-| lyrics.skin        | available | $1.99     | —             | 90             | 20     | 6      | name.com              |
-| dogsit.skin        | available | $1.99     | —             | 96             | 2      | 6      | name.com              |
-| edamame.skin       | available | $1.65     | $15.75        | 80             | 9      | 7      | namesilo              |
-| QandA.skin         | available | $19.98    | —             | 80             | 10     | 7      | namecheap             |
-| makeit.skin        | available | $1.99     | —             | 82             | 21     | 7      | name.com              |
-| dogsick.skin       | available | $1.99     | —             | 90             | 1      | 7      | name.com              |
-| makers.skin        | available | $1.65     | $15.75        | 62             | 67     | 6      | namesilo              |
-| research.skin      | resell    | —         | —             | 78             | 39     | 8      | Dynadot LLC           |
-| CocaCola.skin      | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap             |
-| keepthechange.skin | available | $1.99     | —             | 46             | 59     | 15     | name.com              |
-| reflex.skin        | resell    | —         | —             | 76             | 22     | 6      | Go Daddy, LLC         |
-| insight.skin       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com              |
-| whynot.skin        | available | $1.99     | —             | 74             | 44     | 7      | name.com              |
-| styling.skin       | resell    | —         | —             | 78             | 11     | 7      | 101domain GRS Limited |
-| donuts.skin        | premium   | $2,500    | —             | 54             | 62     | 6      | name.com              |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| act.skin    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo     |
+| cow.skin    | resell    | —         | —             | high           | low    | 3      | Porkbun, LLC |
+| all.skin    | premium   | $2,500    | $20.99        | high           | medium | 3      | name.com     |
+| bra.skin    | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo     |
+| fin.skin    | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC  |
+| are.skin    | premium   | $2,500    | —             | high           | low    | 3      | name.com     |
+| ego.skin    | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo     |
+| sea.skin    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC  |
+| BBC.skin    | premium   | $812.50   | —             | high           | medium | 3      | name.com     |
+| era.skin    | available | $1.65     | $15.75        | high           | medium | 3      | namesilo     |
+| cold.skin   | resell    | —         | —             | high           | low    | 4      | Porkbun, LLC |
+| car.skin    | premium   | $2,600    | $15.73        | high           | medium | 3      | namecheap    |
+| icu.skin    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo     |
+| block.skin  | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC |
+| jar.skin    | premium   | $812.50   | —             | high           | low    | 3      | name.com     |
+| mop.skin    | available | $1.99     | —             | high           | low    | 3      | name.com     |
+| quick.skin  | resell    | —         | —             | high           | medium | 5      | Porkbun, LLC |
+| rep.skin    | premium   | $2,500    | —             | medium         | low    | 3      | name.com     |
+| per.skin    | available | $1.99     | —             | high           | low    | 3      | name.com     |
+| genius.skin | resell    | —         | —             | high           | medium | 6      | Dynadot LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,360 live domains                        |
+| 1,000-row public sample | 12,361 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is made up of one-word domains on the .skin extension. The names range from literal terms such as facts.skin and ladies.skin to broader words like finals.skin and forces.skin, plus more brand-leaning options such as barup.skin. For founders, the main question is whether the word fits a skin-focused brand clearly enough to justify choosing a niche extension. For investors, the key test is buy-in discipline: with a median ask of 121.72, better candidates are words with obvious topical relevance, clean spelling, and resale logic tied to skincare, beauty, dermatology, or identity-driven branding.
+This selection covers 12,361 domain names registered under the .skin extension, ranging from short, punchy compounds like gearup.skin and bedframe.skin to descriptive phrases like landscaping.skin and honeymooning.skin. The .skin extension naturally signals relevance to skincare, beauty, dermatology, and personal-care brands, while remaining flexible enough for playful or generic use. With a median ask near $220, these domains sit in an accessible price range, but individual asks vary by name length, memorability, and category fit. Whether you're evaluating this set for a quick founder shortlist or scanning for undervalued names as an investor, compare each domain's price against renewal cost, spelling ease, and trademark risk before committing.
 
-- One-word .skin domains only
-- Median ask across this set is 121.72
-- Topical fit matters more than broad appeal
-- Favor clear spelling and direct meaning
+- Median ask near $220 across 12,361 .skin domains
+- Brandable compound names like beawake.skin and gearup.skin
+- .skin fits skincare, beauty, and personal-care brands
+- Compare pricing and renewal before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
