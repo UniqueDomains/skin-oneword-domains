@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .skin one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,213 domains · **Median ask:** $140.21 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/skin`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| content.skin | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
-| period.skin  | available | $1.65     | $15.75        | high           | low    | 6      | namesilo        |
-| soft.skin    | premium   | $2,500    | $2,500        | high           | low    | 4      | name.com        |
-| act.skin     | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| cow.skin     | resell    | —         | —             | high           | low    | 3      | Porkbun, LLC    |
-| all.skin     | premium   | $2,500    | $20.99        | high           | medium | 3      | name.com        |
-| ain.skin     | available | $1.65     | $15.75        | low            | low    | 3      | namesilo        |
-| fin.skin     | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
-| are.skin     | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
-| bra.skin     | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo        |
-| sea.skin     | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| BBC.skin     | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| ego.skin     | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo        |
-| cold.skin    | resell    | —         | —             | high           | low    | 4      | Porkbun, LLC    |
-| car.skin     | premium   | $2,600    | $15.73        | high           | medium | 3      | namecheap       |
-| era.skin     | available | $1.65     | $15.75        | high           | medium | 3      | namesilo        |
-| block.skin   | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC    |
-| jar.skin     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| icu.skin     | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| quick.skin   | resell    | —         | —             | high           | medium | 5      | Porkbun, LLC    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| act.skin    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo     |
+| cow.skin    | resell    | —         | —             | high           | low    | 3      | Porkbun, LLC |
+| all.skin    | premium   | $2,500    | $20.99        | high           | medium | 3      | name.com     |
+| ain.skin    | available | $1.65     | $15.75        | low            | low    | 3      | namesilo     |
+| fin.skin    | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC  |
+| are.skin    | premium   | $2,500    | —             | high           | low    | 3      | name.com     |
+| bra.skin    | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo     |
+| sea.skin    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC  |
+| BBC.skin    | premium   | $812.50   | —             | high           | medium | 3      | name.com     |
+| ego.skin    | available | $1.65     | $15.75        | medium         | low    | 3      | namesilo     |
+| cold.skin   | resell    | —         | —             | high           | low    | 4      | Porkbun, LLC |
+| car.skin    | premium   | $2,600    | $15.73        | high           | medium | 3      | namecheap    |
+| era.skin    | available | $1.65     | $15.75        | high           | medium | 3      | namesilo     |
+| block.skin  | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC |
+| jar.skin    | premium   | $812.50   | —             | high           | low    | 3      | name.com     |
+| icu.skin    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo     |
+| quick.skin  | resell    | —         | —             | high           | medium | 5      | Porkbun, LLC |
+| rep.skin    | premium   | $2,500    | —             | medium         | low    | 3      | name.com     |
+| mop.skin    | available | $1.99     | —             | high           | low    | 3      | name.com     |
+| genius.skin | resell    | —         | —             | high           | medium | 6      | Dynadot LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKIN One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
