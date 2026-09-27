@@ -5,6 +5,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1cd03451-12b0-44f2-aa4b-13e17407d5b7,twist.skin,available,1.65,15.75,high,low,5,namesilo,,,
 6eaae8d4-8507-42ae-b9e4-ecf091c80325,diagram.skin,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 22:08
 f37aa798-b1f5-4d6d-8cbf-cb4a177a010f,hazardous.skin,available,1.8,19.98,medium,low,9,namecheap,,,21/08/2026 01:42
+27770e18-3e01-435d-b6fa-7ad2bd3ef045,hillary.skin,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 03:48
 e210f742-0b8d-481e-bfdb-429c03aac0d5,introduce.skin,available,1.65,15.75,high,low,9,namesilo,,,
 2a825459-cf24-474d-a962-a766184287bd,augury.skin,available,1.8,21.98,medium,low,6,namecheap,,,21/09/2026 03:41
 f8d839fb-897a-4e3b-8474-bd5f79658826,grandmothers.skin,available,1.8,21.98,medium,low,12,namecheap,,,20/09/2026 18:06
@@ -70,7 +71,7 @@ e72a9468-0eed-4f43-9055-e36223a2305a,marines.skin,available,1.99,,high,low,7,nam
 adc8ced0-c4f9-419a-bc29-00ebf06e6c0d,desolate.skin,available,1.8,19.98,medium,low,8,namecheap,,,08/08/2026 21:07
 998883da-4096-4d38-97bd-a07dc8477825,madison.skin,premium,832,832,high,low,7,namesilo,,,08/09/2026 13:09
 e758b7b1-a69e-4cc7-93df-1854501ffa9d,unimportant.skin,available,1.65,15.75,medium,low,11,namesilo,,,
-cbb9b3a6-76b1-452e-a1ea-d9bb4f1aeeb4,retained.skin,available,1.99,,high,low,8,name.com,,,
+cbb9b3a6-76b1-452e-a1ea-d9bb4f1aeeb4,retained.skin,available,1.8,21.98,high,low,8,namecheap,,,27/09/2026 13:05
 c424fbde-d8f7-4fd8-8bce-c04260b16cb2,metacarpal.skin,available,1.8,19.98,medium,low,10,namecheap,,,24/08/2026 21:30
 53dae2fc-9eb9-4f14-9e58-bdea730502ed,squashy.skin,available,1.8,19.98,medium,low,7,namecheap,,,10/08/2026 17:16
 22a9a4a5-783e-4605-8773-558482979a48,rejected.skin,available,1.99,17.29,medium,low,8,namesilo,,,25/09/2026 11:50
@@ -80,6 +81,7 @@ c424fbde-d8f7-4fd8-8bce-c04260b16cb2,metacarpal.skin,available,1.8,19.98,medium,
 d7791672-0f5a-4bce-b984-6803a570dd5a,abuja.skin,available,1.8,21.98,medium,low,5,namecheap,,,16/09/2026 18:50
 bee01694-f69e-496c-95d6-8d1f43a275f3,unwonted.skin,available,1.8,21.98,low,low,8,namecheap,,,12/09/2026 22:48
 349c1e98-3ab5-4007-9004-17e744e23ba3,bennie.skin,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 08:32
+4bed683a-203d-4cd5-a595-15552ece8864,hostages.skin,available,1.24,13.97,medium,low,8,spaceship,,,27/09/2026 11:30
 ad65bf7f-0f89-419f-a267-383d941b33df,relationships.skin,available,1.8,21.98,medium,low,13,namecheap,,,17/09/2026 20:15
 1c0940eb-fa92-4a08-91da-d85263253727,knitted.skin,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 16:27
 bf39eba1-ce59-4229-b23c-841e90c411d1,hon.skin,available,1.99,17.29,high,low,3,namesilo,,,25/09/2026 12:00
@@ -87,7 +89,6 @@ c192b847-0c55-436c-955b-4bfdfb0bd5a6,horsefish.skin,available,1.8,21.98,medium,l
 7e48ccc2-b441-4491-8fb8-b2b71feb0ad0,buckshee.skin,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 07:33
 0fc9cc38-9015-41a1-9ec7-91290bbe27c4,mandioca.skin,available,1.8,21.98,medium,low,8,namecheap,,,23/09/2026 22:54
 80054212-171b-448b-9600-6be142979361,promotes.skin,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 11:54
-529b8657-b6d5-4dd5-8739-d01e8d422489,kick.skin,available,,,high,high,4,,,,
 14677131-0ac9-44ec-9cd4-9d9193bf974f,clannish.skin,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 09:35
 70d95762-3597-41e0-b9f0-7d2bdeef2070,uncoiled.skin,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 05:44
 29b079a2-d42a-42fe-ba6f-e36d282380a3,adlumia.skin,available,1.8,21.98,medium,low,7,namecheap,,,17/09/2026 08:37
@@ -131,6 +132,7 @@ ee36e469-5e4f-4c1c-b49c-c8d7cb324b3a,scupper.skin,available,1.99,17.29,medium,lo
 1911c40b-8219-424b-aea8-73a60d0c0bda,winding.skin,available,1.8,19.98,medium,low,7,namecheap,,,24/08/2026 18:19
 c9ec5565-fc27-4781-929d-389161a98f28,oaks.skin,available,1.99,17.29,medium,low,4,namesilo,,,20/09/2026 04:44
 d8ed31d6-387c-45c0-abae-b2351fab11f8,pretzel.skin,available,1.65,15.75,high,low,7,namesilo,,,
+6d50a87d-bd54-4e9f-9bb1-16209b727eee,paintings.skin,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 03:04
 8526f4df-c7a6-4929-9988-48847ef03c28,aggravated.skin,available,1.65,15.75,high,low,10,namesilo,,,
 0d412aa4-b5d7-4861-8949-4aeb2a3f774b,onset.skin,available,1.8,21.98,high,low,5,namecheap,,,04/09/2026 14:29
 aa2356d7-c44b-43cd-ab77-a8cc9e7226e3,compare.skin,premium,845,845,high,low,7,namecheap,,,24/09/2026 16:43
@@ -141,6 +143,7 @@ c360b4a9-07ff-4ee7-a4ea-012b9b18649a,stiff.skin,available,1.8,19.98,medium,low,5
 9520c22b-e8cf-49de-a892-9da6893596fd,ambled.skin,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 05:58
 fb3b40d1-71b5-4fc0-a5ab-5f4f6bf3c4be,anseres.skin,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 12:08
 b8372b0d-cef1-4e60-b2bc-41adc26bc8c0,racial.skin,available,1.8,21.98,high,low,6,namecheap,,,09/09/2026 09:19
+c3507fbb-a23c-4157-8c8b-97701907cf9c,rehearsal.skin,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 03:47
 c17731f0-aec7-47ae-89ed-24074fe4e2d1,unanimous.skin,available,1.8,19.98,high,low,9,namecheap,,,12/08/2026 22:33
 bda0dd47-7b33-42b0-87f4-33df38be2986,sozzled.skin,available,1.8,19.98,low,low,7,namecheap,,,09/08/2026 16:23
 4b620016-80d2-460c-8bc4-42b6acdefb38,gloaming.skin,available,1.8,21.98,high,low,8,namecheap,,,11/09/2026 21:41
@@ -258,6 +261,7 @@ a0993ebf-45ad-4a8e-aef3-e5c255035ef9,entangled.skin,available,1.8,19.98,medium,l
 58939e01-d2f5-4cce-85b1-fe61ece593b1,dalliance.skin,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 19:38
 e3326f00-9718-4509-85c8-f8b1bd0ccc04,devotions.skin,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 02:07
 66419b7e-9e60-44cf-a527-228a80d72052,matt.skin,available,1.99,17.29,high,high,4,namesilo,,,25/09/2026 17:38
+ed2e3074-c811-4898-945d-c191d14fefa8,monsters.skin,available,1.99,17.29,high,medium,8,namesilo,,,27/09/2026 03:16
 16d5f2ad-a178-42d0-9970-78806bded4c0,defense.skin,available,1.99,,high,low,7,name.com,,,
 c0087ab7-c938-44d5-b282-0427d493c6e3,arco.skin,available,1.8,19.98,high,low,4,namecheap,,,06/08/2026 16:02
 d8c7d6ee-9be3-446c-aa92-30641fcd7684,cometary.skin,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 18:56
@@ -314,6 +318,7 @@ d8fe0711-7109-436b-8ded-b303e97b6b2b,rapturous.skin,available,1.8,19.98,high,low
 14326a82-6fc2-42b5-9929-4c6876b12e33,barium.skin,available,1.99,17.29,high,low,6,namesilo,,,20/09/2026 23:19
 0ea145e6-56ea-4f8a-82ad-41a8c02bfe34,morley.skin,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 05:08
 09bbca39-567b-4b41-8b77-8393d1d3b169,preferred.skin,available,1.8,19.98,high,low,9,namecheap,,,09/08/2026 17:53
+131c7ff6-24d6-47f1-8f8f-bbe6c3257e9e,tobias.skin,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 07:33
 0f426595-8731-4f61-914e-92233f3ddc35,xiv.skin,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 11:42
 0d829375-87fd-497a-a36b-b9e9884d5bd5,zdv.skin,available,1.99,17.29,medium,low,3,namesilo,,,21/09/2026 11:32
 9e70f6e4-2a37-42cd-ab56-f8829598055f,ambitious.skin,available,1.8,21.98,high,low,9,namecheap,,,22/09/2026 03:59
@@ -380,7 +385,7 @@ f6147fc1-9a68-4a92-b23f-736fe2ea217b,accordant.skin,available,1.65,15.75,high,lo
 884b6ff1-adb2-4fcc-a7b1-fae7c30a8db6,unformed.skin,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 10:39
 58e2809e-0ac9-4c25-966f-d1d624dd901a,slickly.skin,available,1.8,21.98,medium,low,7,namecheap,,,14/09/2026 21:36
 745cf7a1-ed4f-4cb3-9dc9-67f9358ac679,multiplication.skin,available,1.65,15.75,medium,low,14,namesilo,,,
-db5ea2a6-7de7-4f70-b9a7-ec47850634fd,secluded.skin,available,1.65,15.75,high,low,8,namesilo,,,
+db5ea2a6-7de7-4f70-b9a7-ec47850634fd,secluded.skin,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 06:24
 1ed56568-4192-4b4b-bf22-cc76340c7a75,smoked.skin,available,1.8,21.98,medium,low,6,namecheap,,,10/09/2026 11:53
 8b09cd90-dd72-4dbd-8b02-39717132f666,emotion.skin,available,1.65,15.75,high,low,7,namesilo,,,
 f1f32eb4-aed4-4b9f-889e-1d894b06e03e,bey.skin,available,1.99,17.29,medium,low,3,namesilo,,,23/09/2026 12:10
@@ -428,6 +433,7 @@ d3b9b670-9a3f-4b9b-9b37-310b749b7fb6,magician.skin,available,1.99,17.29,high,low
 e1d5afb5-766d-42f1-b4a5-18eeba24131a,apogean.skin,available,1.8,19.98,medium,low,7,namecheap,,,06/08/2026 01:57
 5198445c-97fb-4362-8c43-de4524d0d951,tilted.skin,available,1.8,19.98,high,low,6,namecheap,,,07/08/2026 13:29
 95ab3a88-8230-4462-b9a0-4bbead0b41af,clamor.skin,available,1.8,19.98,high,low,6,namecheap,,,10/08/2026 13:15
+705fb582-7755-448e-9e69-0956fbf123e6,dragged.skin,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 10:34
 c2459875-95df-49ab-9484-ca7ae389e948,folks.skin,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 16:34
 d5f40146-5cf1-4d0d-ab22-2a63462c9f16,indisposed.skin,available,1.8,19.98,medium,low,10,namecheap,,,
 e714d07a-e281-4708-a53c-b6ea1e55e9bd,mostly.skin,available,1.65,15.75,high,low,6,namesilo,,,
@@ -592,11 +598,10 @@ cd3e7b63-d6b9-4d94-bfd3-ac3d3998173e,subsonic.skin,available,1.8,21.98,medium,lo
 33ea2c5e-4a5f-4c07-a393-defec442f796,mop.skin,available,1.99,,high,low,3,name.com,,,
 f3c4fd8f-d1c5-4e24-baea-dd65a86e0682,resultant.skin,available,1.65,15.75,high,low,9,namesilo,,,
 74b976a9-872f-4211-a83b-fd7dad4c0bb2,price.skin,premium,2500,,high,low,5,name.com,,,
-94351a39-934b-466c-9ebc-70db8b0018d6,piano.skin,available,1.65,15.75,high,low,5,namesilo,,,
+94351a39-934b-466c-9ebc-70db8b0018d6,piano.skin,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 03:41
 782978ed-fe8b-4f9d-aa2b-7416e6f5fe47,grueling.skin,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 16:45
 edc3b992-8109-4cff-8b99-a45b471bccf8,swiftly.skin,available,,,high,low,7,,,,
 7f17d9e5-e91b-439c-99be-50f037693b6c,barbershop.skin,available,1.8,21.98,high,low,10,namecheap,,,22/09/2026 04:52
-162c7694-c188-4922-8637-a58363a77dfa,papa.skin,available,1.65,15.75,high,low,4,namesilo,,,
 928e03ca-56e9-4b95-ba8b-50d0dfbbdd35,contrite.skin,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 23:34
 ecfe0deb-38f1-4189-9475-73eaddf56a0e,darnel.skin,available,1.8,21.98,medium,low,6,namecheap,,,22/09/2026 21:10
 bad452c5-1fe2-446a-bebe-90401ee277ed,two.skin,premium,832,832,high,low,3,namesilo,,,21/09/2026 12:14
@@ -608,9 +613,11 @@ e43e43fa-c971-4681-aadf-a609ed5a2cbb,punishment.skin,available,1.99,17.29,high,l
 6993d517-9440-42ed-926f-528cf1d607b5,concerted.skin,available,1.8,19.98,high,low,9,namecheap,,,12/08/2026 20:06
 155a05c6-2ec0-412e-a340-7639b4143847,pushkin.skin,available,1.99,17.29,high,low,7,namesilo,,,18/09/2026 05:07
 badb86d5-a91c-4591-9720-1416e72a4b3b,commented.skin,available,1.99,17.29,medium,low,9,namesilo,,,18/09/2026 23:19
+97cbb2c7-0bec-4a15-a547-28b4423cfbe1,stayed.skin,available,1.99,17.29,medium,low,6,namesilo,,,27/09/2026 02:56
 cdd8d286-6a1e-4663-9c7a-3e38b6d2106b,cleaners.skin,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 15:26
 a443f057-9285-4ce8-8bdd-5a836043b750,arcturus.skin,available,1.99,17.29,medium,low,8,namesilo,,,20/09/2026 03:01
 f6fa63da-eb58-4340-8a25-52aab012ba5b,shocked.skin,available,1.65,15.75,high,low,7,namesilo,,,
+8ea896a3-167b-46c6-b884-cf5d9b4d6caa,react.skin,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 06:05
 a1dfbac5-5ae7-4a57-896d-4b353e9531ee,rounder.skin,available,1.8,19.98,high,low,7,namecheap,,,23/08/2026 00:51
 39d77ed3-7f04-461b-a6a0-c7b25cfa5b7b,assignment.skin,available,1.99,17.29,high,low,10,namesilo,,,19/09/2026 21:59
 3689213b-cd4d-47e3-bceb-801ef2b37c5c,babbitt.skin,available,1.99,17.29,high,low,7,namesilo,,,21/09/2026 12:17
@@ -626,6 +633,7 @@ dbaddca5-9833-422a-86d2-e60dfb346abd,collections.skin,available,1.99,17.29,mediu
 cf6fe0c4-adde-481c-a062-dfcfb5d00ead,cocks.skin,premium,2660,2660,medium,low,5,namesilo,,,18/09/2026 23:39
 506b8573-6121-4bfa-b6f0-7186cc8dca63,beauteous.skin,available,1.8,19.98,high,low,9,namecheap,,,09/08/2026 05:58
 6626756e-f3a9-4037-96da-ede04ddb7dcd,snuffly.skin,available,1.8,21.98,high,medium,7,namecheap,,,10/09/2026 12:37
+e7e103a4-0b38-4db4-8c13-ada4ab7e6d88,calhoun.skin,premium,2660,2660,medium,low,7,namesilo,,,27/09/2026 03:19
 8070a8d7-7dfd-44d0-9d28-b1d9a3c48ace,assure.skin,available,1.65,15.75,high,low,6,namesilo,,,
 2ed6fc6a-bf60-477b-8e78-353e4248163c,netherlands.skin,available,,,high,high,11,,,,
 fc677ab6-6205-476e-9201-a697ba08b2bf,werewolves.skin,available,1.8,21.98,medium,low,10,namecheap,,,19/09/2026 01:01
@@ -683,6 +691,7 @@ fcd12b52-40bb-414f-bfd7-cec2366993b7,winners.skin,available,1.99,17.29,high,high
 c1ca72b8-353b-40c8-9c45-0c424c3eb584,swosh.skin,available,1.8,21.98,medium,low,5,namecheap,,,11/09/2026 05:50
 cef2e0f7-c695-4785-9d21-2799ba26ee57,unadvised.skin,available,1.8,19.98,medium,low,9,namecheap,,,21/08/2026 18:49
 1dff3479-c977-4e35-9495-d8ec64a2203b,point.skin,available,1.99,,high,low,5,name.com,,,
+7819b47d-6815-436e-9bd2-da6772dd51f5,repair.skin,premium,832,832,high,low,6,namesilo,,,27/09/2026 03:25
 0d6fed60-a0eb-420d-ba5c-29704975bbf3,outspread.skin,available,1.8,21.98,high,low,9,namecheap,,,04/09/2026 19:47
 3e259744-24c3-44d8-aebc-5afe42167240,sidearm.skin,available,1.8,21.98,high,medium,7,namecheap,,,10/09/2026 07:44
 6c480d1b-bffb-4209-856d-a8af3e3560cf,cardinal.skin,premium,2500,2500,high,low,8,name.com,,,11/08/2026 18:54
@@ -808,6 +817,7 @@ b7e67893-fcce-4c1a-94b9-3549007552af,tarsal.skin,available,1.8,21.98,medium,low,
 4da7c322-a252-40b2-9ef8-ce8e0b022430,rubicund.skin,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 19:17
 e649ae92-5c4b-4248-bf91-c0a405ae9e3d,cameras.skin,available,1.8,21.98,high,low,7,namecheap,,,25/09/2026 20:54
 7f4c8aaf-df06-42d0-bbbb-c7ae1376d6eb,giacometti.skin,available,1.99,17.29,high,low,10,namesilo,,,18/09/2026 02:46
+6d187137-8964-4c99-9af3-b4ef8dacec52,darlington.skin,available,1.99,17.29,high,low,10,namesilo,,,27/09/2026 06:24
 7c09f764-e621-4324-9ba9-d169402f9bcc,affections.skin,available,1.8,21.98,medium,low,10,namecheap,,,17/09/2026 07:05
 38a06316-90d5-4f04-adc1-59b7c1ee48ed,foothold.skin,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 10:16
 81f60b29-8391-45fd-9a05-3d5727011666,radiant.skin,premium,4690.62,20.99,high,low,7,Dynadot Inc,18/05/2026 14:14,18/05/2029 23:59,15/08/2026 16:24
@@ -916,6 +926,7 @@ c24ff56c-e7c8-4559-b24d-556fbe2b695f,dispersion.skin,available,1.99,17.29,high,l
 d0af1f7d-eff1-4a9e-8a61-d9a7609e90e4,fcc.skin,available,1.99,17.29,high,low,3,namesilo,,,25/09/2026 05:53
 615911ed-9f5a-47aa-a018-dd5f549701eb,weirdness.skin,available,1.8,21.98,high,low,9,namecheap,,,23/09/2026 23:18
 a57f7a71-ac12-4c49-8cb8-8c17c8fdbfb9,belloc.skin,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 06:16
+86cc33b6-5ad8-4db0-bf6b-a668b6f1e0da,lynn.skin,premium,832,832,high,low,4,namesilo,,,27/09/2026 07:20
 8d8fbe91-2f23-431d-8a46-ae5bbfac0e82,septuple.skin,available,1.8,21.98,medium,low,8,namecheap,,,10/09/2026 04:23
 89979d14-86b6-4698-b61a-d5b3371f8c8f,aeration.skin,available,1.8,21.98,medium,low,8,namecheap,,,17/09/2026 12:46
 da0cd72d-399d-461a-b969-d40f69a7b536,loyal.skin,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 15:30
@@ -926,21 +937,21 @@ b2429091-8ec6-4aed-a372-53fec479cf9a,linearly.skin,available,1.8,21.98,medium,lo
 85d1f24c-5c3c-4e32-96cc-167380a0eff2,moire.skin,available,1.8,19.98,medium,low,5,namecheap,,,25/08/2026 03:26
 53d75159-dee1-4a5d-a4e3-d85d153015b0,markets.skin,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 06:42
 f63aade0-2a4d-4537-9b6b-cde363dc793f,delusional.skin,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 00:51
+a7783fe4-1c0d-4127-b675-30d7cfe9f696,surveillance.skin,available,1.99,17.29,high,low,12,namesilo,,,27/09/2026 08:40
 abc3792d-5ca6-4734-8651-4744d550eabb,ergonomic.skin,available,1.8,19.98,high,low,9,namecheap,,,17/08/2026 12:11
 0cdada49-7467-4e5f-84f2-4c1d33e614c0,trustee.skin,available,1.8,21.98,high,medium,7,namecheap,,,09/09/2026 12:53
 3a15d5c9-f087-4867-af4b-3d22b70b69a2,invitation.skin,available,1.65,15.75,high,low,10,namesilo,,,
-c9561024-3cdb-4d83-b517-df28dff85c7f,pressing.skin,available,1.65,15.75,high,low,8,namesilo,,,
+c9561024-3cdb-4d83-b517-df28dff85c7f,pressing.skin,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 05:26
 f8d948b5-3256-4ec6-8425-b1fa52026219,perennial.skin,available,1.8,21.98,high,low,9,namecheap,,,08/09/2026 16:26
 6f196d4a-9bf0-4dda-9d86-bc06175cca58,confuse.skin,available,1.65,15.75,high,low,7,namesilo,,,
 c03b1294-b1b8-4dbf-b108-99cba5f5dade,rile.skin,available,1.65,15.75,medium,low,4,namesilo,,,
 0ebd6037-c5f6-4ccd-9115-ed8cc3e31eaa,type.skin,premium,2500,,high,low,4,name.com,,,
-05990125-a380-4291-acf3-d1f85b76f059,stock.skin,premium,2600,15.73,high,medium,5,namecheap,,,
 2e1a3f28-8b82-4392-9ac6-29e9a8192da6,followers.skin,available,1.8,19.98,high,low,9,namecheap,,,18/08/2026 10:24
 0409ad42-a5d7-495f-bca1-221f60d68714,partisan.skin,available,1.8,21.98,high,low,8,namecheap,,,08/09/2026 02:07
 bfc02a02-23d4-43e4-877a-ece63db9cf3b,anemometer.skin,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 05:15
 7374118d-e674-41fb-ab94-8078bae066a2,lot.skin,available,1.8,21.98,high,low,3,namecheap,,,25/09/2026 20:36
 0d2f3e8e-a815-4e99-983c-f37e79e3ed47,dominance.skin,available,1.65,15.75,high,low,9,namesilo,,,
-a12892c9-aae3-4e1b-ae09-b7d845cd671d,daddy.skin,premium,2500,,high,low,5,name.com,,,
+a12892c9-aae3-4e1b-ae09-b7d845cd671d,daddy.skin,premium,2660,2660,high,low,5,namesilo,,,27/09/2026 04:35
 9ecb1cbb-5086-4eeb-ade2-e48bd7393748,lade.skin,available,1.8,19.98,medium,low,4,namecheap,,,22/08/2026 18:36
 6437b6a9-8b70-4467-b5d1-ead8e131fc1e,webshop.skin,available,1.65,15.75,high,low,8,namesilo,,,
 66b55d5a-0a28-47b4-9e76-92ccbb52962f,favorite.skin,premium,832,832,high,low,8,namesilo,,,24/09/2026 04:33
@@ -964,7 +975,7 @@ d85640aa-4f5c-402d-a9af-7b5c5b0285b6,priests.skin,available,1.99,17.29,medium,lo
 7d30fc22-1887-4672-8669-01187bdb52d2,indigent.skin,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 04:34
 38f5ebaf-6749-4bd9-b2d3-2790f8307128,rapidly.skin,available,1.8,21.98,high,low,7,namecheap,,,13/09/2026 20:17
 9626a2a8-6d69-42fe-b47e-1bca523b47c0,acute.skin,available,1.99,17.29,high,low,5,namesilo,,,21/09/2026 16:39
-e7e06f06-9a13-4828-87c3-e8051475ba5b,played.skin,available,1.65,15.75,high,low,6,namesilo,,,
+e7e06f06-9a13-4828-87c3-e8051475ba5b,played.skin,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 04:03
 8d992c7d-fe93-470e-83bb-5d68359cc2bb,stony.skin,available,1.8,19.98,medium,low,5,namecheap,,,10/08/2026 21:45
 384368eb-db58-408a-9377-b9e0c7414066,fourier.skin,available,1.99,17.29,high,low,7,namesilo,,,22/09/2026 07:13
 fc0cd8e0-d971-4af5-a8b1-efbe68288686,lush.skin,premium,2500,2500,high,medium,4,name.com,,,
@@ -988,14 +999,3 @@ b621fd2c-5ed5-4519-8938-3ae6177af114,liberate.skin,available,1.8,19.98,high,low,
 463f9d60-e8c4-4326-821c-f822c67282eb,capped.skin,available,1.8,19.98,medium,low,6,namecheap,,,11/08/2026 18:02
 78813a21-4b5f-49ce-bd30-d0b95140eef2,samoan.skin,available,1.8,21.98,high,medium,6,namecheap,,,09/09/2026 21:09
 1ca4fa7d-7538-4dbc-bd74-9521d7f700ed,pictures.skin,premium,2660,2660,high,low,8,namesilo,,,25/09/2026 16:28
-de26c0eb-d0bc-4827-89e6-d3148ec5de9a,profligate.skin,available,1.99,20.99,medium,low,10,name.com,,,13/08/2026 20:24
-4cf963ea-5c8a-48ff-861c-9c600c4b230c,doze.skin,available,1.99,17.29,high,low,4,namesilo,,,24/09/2026 23:43
-13558a27-1bc6-44aa-95fa-5964977df502,bitterroot.skin,available,1.8,21.98,medium,low,10,namecheap,,,23/09/2026 23:08
-8cfe680d-a694-4ffa-92a2-424f5d343c05,raving.skin,available,1.8,21.98,high,low,6,namecheap,,,15/09/2026 22:43
-18321909-d857-40ab-9a11-a10aeda5c66d,odd.skin,available,1.99,17.29,high,low,3,namesilo,,,24/09/2026 03:59
-cc31068f-2dce-4069-8f97-f969c5038e88,externally.skin,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 17:11
-0f533ccc-6503-47e3-a937-8ccf92996aa7,matched.skin,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 17:44
-a749a52d-0e7f-49d2-900c-69ad73f58ebb,ponders.skin,available,1.99,17.29,medium,low,7,namesilo,,,18/09/2026 02:06
-1dcb7223-b3f0-4b16-9cba-6d5f9d573b18,styleless.skin,available,1.8,21.98,low,low,9,namecheap,,,10/09/2026 23:15
-4513276a-f26e-4466-a18c-386fcc7a3bde,beatniks.skin,available,1.8,21.98,medium,low,8,namecheap,,,22/09/2026 21:34
-2ff30d78-8e02-47d3-8b36-d37dabe95ab2,profile.skin,resell,,,high,low,7,Dynadot Inc,23/06/2026 00:06,23/06/2027 23:59,26/09/2026 08:21
